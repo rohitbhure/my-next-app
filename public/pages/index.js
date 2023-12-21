@@ -1,6 +1,6 @@
 // pages/index.js
-import Login from '../components/login';
-import Register from '../components/register';
+import Login from '../components/Login';
+import Register from '../components/Register';
 import GifSearch from '../components/GifSearch';
 
 const Home = () => {
